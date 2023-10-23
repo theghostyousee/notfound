@@ -26,6 +26,8 @@ body {
 
 img{
     z-index: 99;
+    width: 175px;
+    cursor: pointer;
 }
 
 body:after {
